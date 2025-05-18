@@ -1,6 +1,8 @@
 # <div align="center">耄耋大狗嚼</div>
 
-![游戏标题](title.png)
+<div align="center">
+  <img src="title.png" alt="游戏标题" width="300" />
+</div>
 
 <div align="center">
 一款基于Pygame的声控耄耋版FlappyBird游戏
